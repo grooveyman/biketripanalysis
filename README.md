@@ -1,6 +1,6 @@
 # Ford GoBike System Data
 ## by Emmanuel De-Graft
-
+NB: you can find the presentation here https://grooveyman.github.io/biketripanalysis/
 
 ## Dataset
 
